@@ -61,4 +61,5 @@ dependencies {
     implementation 'com.squareup.picasso:picasso:2.71828' //for picasso
     implementation 'jp.wasabeef:picasso-transformations:2.2.1' //for picasso transformation
     implementation 'com.github.bumptech.glide:glide:3.7.0' //for loading image alternate
+    implementation 'com.android.volley:volley:1.1.1'
 }
